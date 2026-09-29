@@ -1,0 +1,3 @@
+0;Ever Care Hospital Limited
+1;United Medical College & Hospital
+2;Dhaka Medical College & Hospital
